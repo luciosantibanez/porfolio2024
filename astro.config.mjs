@@ -8,5 +8,5 @@ export default defineConfig({
   integrations: [tailwind(), robotsTxt()],
   site: 'https://github.com/luciosantibanez/porfolio2024.git',
   output: 'static',
-  base: '/porfolio2024/', 
+  // base: '/porfolio2024/', 
 });
